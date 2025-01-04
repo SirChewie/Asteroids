@@ -1,0 +1,5 @@
+## Python ignores
+venv/
+__pycache__/
+## Other ingnores
+.env
