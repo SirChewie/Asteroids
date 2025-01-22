@@ -1,4 +1,5 @@
 ## Python ignores
+.venv/
 venv/
 __pycache__/
 ## Other ingnores
